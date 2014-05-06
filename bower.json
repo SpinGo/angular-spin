@@ -10,6 +10,6 @@
 
     "dependencies": {
         "angular": "~1.0.7",
-        "spin.js": "https://github.com/spingo/spin.js.git"
+        "spin.js": "https://github.com/spingo/spin.js.git#ae79e81b2e3bca8b5057326032e91d1a92af9559"
     }
 }
